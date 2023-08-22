@@ -1,6 +1,4 @@
-<!--
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
--->
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h4 align="center">🌟 Looking forward to have a successful professional career as a Software Developer <br></h4>
 
@@ -8,19 +6,20 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F68166&center=true&lines=Software+Developer;Fullstack+web+and+mobile;Open+Source+Developer;Competitive+Coder;Passionate+on+Mentoring+and+Teaching;+Sofware+Researcher!&center=true&width=380&height=45"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=65DC85&center=true&lines=Software+Developer;Fullstack+web+and+mobile;Open+Source+Developer;Competitive+Coder;Passionate+on+Mentoring+and+Teaching!&center=true&width=380&height=45"/><br>
   <img width="100%" src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
 <p align="center">
   
-  🎓 Bachelor's degree in Software Engineering and Information System [**grade: GOOD**], University of Yaounde 1, Cameroon 2023 &emsp;  💻 Participated in different Projects as, a Participant and a Mentor &emsp; 🌱 I’m currently learning DevOps and Automation &emsp; 🤝 Ask me about **django, flutter and reactJs**  &emsp;  📫 How to reach me [**michelbtompe@gmail.com**](mailto:michelbtompe@gmail.com) &emsp; 💬 Like to talk about Coding bugs 😂🤬! &emsp;  🤩 I like to learn new technologies. 🚀
+  🎓: Bachelor's degree in Software Engineering and Information System [**grade: GOOD**], University of Yaounde 1, Cameroon 2023; &emsp;  💻: Participated in different Projects as, a Participant and a Mentor; &emsp; 🌱: I’m currently learning DevOps and Automation; &emsp; 🤝: Ask me about **django, flutter and reactJs**;  &emsp;  📫: How to reach me [**michelbtompe@gmail.com**](mailto:michelbtompe@gmail.com); &emsp; 💬: Like to talk about Coding bugs 😂🤬!; &emsp;  🤩: I like to learn new technologies. 🚀
 </p>
 
 <!--
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-michel&label=Profile%20views&color=0e75b6&style=flat" alt="tom-michel" /> </p>
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tom-michel" alt="tom-michel" /></a> </p>
+![python-grid](https://github.com/Tom-michel/Tom-michel/assets/86242863/3c6c5634-0f83-42ec-8e4f-3da1fdd9db3e)
 
   <p align="left"> <a href="https://twitter.com/michelbtompe" target="blank"><img src="https://img.shields.io/twitter/follow/michelbtompe?logo=twitter&style=for-the-badge" alt="michelbtompe" /></a> </p>
 -->
@@ -71,7 +70,7 @@
 ### :heavy_check_mark: Wanted to know more about me, Visit <a href = ""> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
 
 
-## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)    
+## 💻 OS ☢   
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </div>
 
@@ -87,7 +86,7 @@
 </div>
 
 <p align="center">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tom-michel&show_icons=true&locale=en&layout=compact&theme=dark" alt="tom-michel" />
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tom-michel&show_icons=true&locale=en&layout=compact&theme=dark" alt="tom-michel" /> &nbsp;
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=tom-michel&show_icons=true&locale=en&theme=dark" alt="tom-michel" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=tom-michel&theme=dark" alt="tom-michel" />
 </p>
