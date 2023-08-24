@@ -34,7 +34,7 @@
 <a href="https://twitter.com/michelbtompe" target="blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/michel-btompe-3a0bb3234" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href = "mailto:michelbtompe@gmail.com" target = "_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/michel btompe" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" /></a>
+<a href="https://www.facebook.com/michel.tom.14203" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" /></a>
 
 
 ## 🚀 Skills 😎💪
