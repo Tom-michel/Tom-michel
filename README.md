@@ -1,4 +1,6 @@
+<!--
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+-->
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h4 align="center">🌟 Looking forward to have a successful professional career as a Software Developer <br></h4>
 
@@ -78,12 +80,12 @@
 <img width="100%" src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 
 
-<div align = "center">
+<!-- <div align = "center">
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Tom-michel}/count.svg)
 
-</div>
+</div> -->
 
 <p align="center">
   <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tom-michel&show_icons=true&locale=en&layout=compact&theme=dark" alt="tom-michel" /> &nbsp;
